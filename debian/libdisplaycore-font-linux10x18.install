@@ -1,2 +1,4 @@
-Linux10x18.cpp libraries/DisplayCore/Linux10x18
-Linux10x18.h libraries/DisplayCore/Linux10x18
+library.json libraries/DisplayCore/Linux10x18
+library.properties libraries/DisplayCore/Linux10x18
+README.md libraries/DisplayCore/Linux10x18
+src libraries/DisplayCore/Linux10x18
